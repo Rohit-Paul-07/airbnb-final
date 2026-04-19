@@ -1,5 +1,5 @@
 # Airbnb Clone (MERN + Vite)
-
+Project Live on :- https://airbnbhaven.vercel.app
 ## Setup
 
 ### Backend
@@ -17,14 +17,14 @@ CLOUDINARY_API_SECRET=your_api_secret
 Get these from https://cloudinary.com/console (free account works fine).
 
 ```bash
-npm run dev   # starts on http://localhost:5000
+npm run dev   # starts localy on http://localhost:5000
 ```
 
 ### Frontend
 ```bash
 cd frontend
 npm install
-npm run dev   # starts on http://localhost:5173
+npm run dev   # starts localy on http://localhost:5173
 ```
 
 ## Features
